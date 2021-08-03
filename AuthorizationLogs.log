@@ -1,0 +1,50 @@
+INFO  01:52:44 Application started. Press Ctrl+C to shut down.
+INFO  01:52:44 Application started. Press Ctrl+C to shut down.
+INFO  01:52:44 Hosting environment: Development
+INFO  01:52:44 Hosting environment: Development
+INFO  01:52:44 Content root path: F:\project\project\Authorization\Authorization
+INFO  01:52:44 Content root path: F:\project\project\Authorization\Authorization
+INFO  01:53:19 Login method invoked, Username : yash
+ERROR 01:53:20 Error Occured from LoginError Message : Header with name 'Userid' was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+INFO  01:54:41 Login method invoked, Username : yash
+ERROR 01:54:41 Error Occured from LoginError Message : Header with name 'Userid' was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+INFO  01:55:06 Login method invoked, Username : yash
+ERROR 01:55:06 Error Occured from LoginError Message : Header with name 'Userid' was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+INFO  01:56:31 Login method invoked, Username : yash
+ERROR 01:56:31 Error Occured from LoginError Message : Header with name 'Userid' was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+INFO  01:59:50 Application started. Press Ctrl+C to shut down.
+INFO  01:59:50 Application started. Press Ctrl+C to shut down.
+INFO  01:59:50 Hosting environment: Development
+INFO  01:59:50 Hosting environment: Development
+INFO  01:59:50 Content root path: F:\project\project\Authorization\Authorization
+INFO  01:59:50 Content root path: F:\project\project\Authorization\Authorization
+INFO  02:00:27 Login method invoked, Username : yash
+INFO  02:00:39 Login method invoked, Username : yash
+INFO  02:00:42 Login method invoked, Username : yash
+INFO  02:00:52 Login method invoked, Username : yash
+INFO  03:07:33 Application started. Press Ctrl+C to shut down.
+INFO  03:07:33 Application started. Press Ctrl+C to shut down.
+INFO  03:07:33 Hosting environment: Development
+INFO  03:07:33 Hosting environment: Development
+INFO  03:07:33 Content root path: F:\project\project\Authorization\Authorization
+INFO  03:07:33 Content root path: F:\project\project\Authorization\Authorization
+INFO  03:12:06 Login method invoked, Username : yash
+INFO  05:06:27 Application started. Press Ctrl+C to shut down.
+INFO  05:06:27 Application started. Press Ctrl+C to shut down.
+INFO  05:06:27 Hosting environment: Development
+INFO  05:06:27 Hosting environment: Development
+INFO  05:06:27 Content root path: F:\project\project\Authorization\Authorization
+INFO  05:06:27 Content root path: F:\project\project\Authorization\Authorization
+INFO  05:12:58 Application started. Press Ctrl+C to shut down.
+INFO  05:12:58 Application started. Press Ctrl+C to shut down.
+INFO  05:12:58 Hosting environment: Development
+INFO  05:12:58 Hosting environment: Development
+INFO  05:12:58 Content root path: F:\project\project\Authorization\Authorization
+INFO  05:12:58 Content root path: F:\project\project\Authorization\Authorization
+INFO  11:33:23 Application started. Press Ctrl+C to shut down.
+INFO  11:33:23 Application started. Press Ctrl+C to shut down.
+INFO  11:33:23 Hosting environment: Development
+INFO  11:33:23 Hosting environment: Development
+INFO  11:33:23 Content root path: F:\project\project\Authorization\Authorization
+INFO  11:33:23 Content root path: F:\project\project\Authorization\Authorization
+INFO  11:33:56 Login method invoked, Username : yash

@@ -1,0 +1,466 @@
+INFO  02:10:14 Application started. Press Ctrl+C to shut down.
+INFO  02:10:14 Application started. Press Ctrl+C to shut down.
+INFO  02:10:14 Hosting environment: Development
+INFO  02:10:14 Hosting environment: Development
+INFO  02:10:14 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  02:10:14 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  02:10:42 Login method invoked, Username : Akshay
+INFO  02:10:42 CheckCredential method invoked.
+ERROR 02:10:47 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 02:10:47 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  03:03:31 Application started. Press Ctrl+C to shut down.
+INFO  03:03:31 Application started. Press Ctrl+C to shut down.
+INFO  03:03:31 Hosting environment: Development
+INFO  03:03:31 Hosting environment: Development
+INFO  03:03:31 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  03:03:31 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  03:04:28 Login method invoked, Username : hell
+INFO  03:04:28 CheckCredential method invoked.
+ERROR 03:04:33 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 03:04:33 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  03:12:00 Application started. Press Ctrl+C to shut down.
+INFO  03:12:00 Application started. Press Ctrl+C to shut down.
+INFO  03:12:00 Hosting environment: Development
+INFO  03:12:00 Hosting environment: Development
+INFO  03:12:00 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  03:12:00 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  03:13:07 Login method invoked, Username : admin
+INFO  03:13:07 CheckCredential method invoked.
+INFO  03:17:03 Login method invoked, Username : john@123
+INFO  03:17:03 CheckCredential method invoked.
+INFO  03:56:38 Login method invoked, Username : john@123
+INFO  03:56:38 CheckCredential method invoked.
+INFO  04:14:16 Login method invoked, Username : john@123
+INFO  04:14:16 CheckCredential method invoked.
+INFO  04:25:06 Login method invoked, Username : john@123
+INFO  04:25:06 CheckCredential method invoked.
+INFO  04:31:40 Login method invoked, Username : jack432
+INFO  04:31:40 CheckCredential method invoked.
+INFO  04:40:29 Login method invoked, Username : jack432
+INFO  04:40:29 CheckCredential method invoked.
+INFO  06:13:35 Application started. Press Ctrl+C to shut down.
+INFO  06:13:35 Application started. Press Ctrl+C to shut down.
+INFO  06:13:35 Hosting environment: Development
+INFO  06:13:35 Hosting environment: Development
+INFO  06:13:35 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  06:13:35 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  06:16:34 Login method invoked, Username : jack432
+INFO  06:16:46 CheckCredential method invoked.
+ERROR 06:18:26 Error Occured from CheckCredentialError Message : One or more errors occurred. (A task was canceled.)
+ERROR 06:22:57 Error Occured from LoginError Message : One or more errors occurred. (A task was canceled.)
+INFO  06:22:58 Login method invoked, Username : jack432
+INFO  06:22:58 Login method invoked, Username : jack432
+INFO  06:22:58 CheckCredential method invoked.
+INFO  06:22:58 CheckCredential method invoked.
+INFO  06:22:58 Login method invoked, Username : jack432
+INFO  06:22:58 CheckCredential method invoked.
+INFO  06:24:03 Login method invoked, Username : jack432
+INFO  06:24:03 CheckCredential method invoked.
+INFO  07:42:14 Application started. Press Ctrl+C to shut down.
+INFO  07:42:14 Application started. Press Ctrl+C to shut down.
+INFO  07:42:14 Hosting environment: Development
+INFO  07:42:14 Hosting environment: Development
+INFO  07:42:14 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  07:42:14 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  07:42:48 Login method invoked, Username : jack432
+INFO  07:43:13 CheckCredential method invoked.
+INFO  07:47:50 Login method invoked, Username : jack432
+INFO  07:47:58 CheckCredential method invoked.
+INFO  07:48:01 Login method invoked, Username : jack432
+INFO  07:48:02 CheckCredential method invoked.
+INFO  07:48:39 Login method invoked, Username : jack432
+INFO  07:48:50 CheckCredential method invoked.
+INFO  07:59:55 Login method invoked, Username : jack432
+INFO  07:59:59 CheckCredential method invoked.
+INFO  08:03:36 Login method invoked, Username : jack432
+INFO  08:03:40 CheckCredential method invoked.
+INFO  08:04:10 Login method invoked, Username : john@123
+INFO  08:04:12 CheckCredential method invoked.
+INFO  09:48:47 Application started. Press Ctrl+C to shut down.
+INFO  09:48:47 Application started. Press Ctrl+C to shut down.
+INFO  09:48:47 Hosting environment: Development
+INFO  09:48:47 Hosting environment: Development
+INFO  09:48:47 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  09:48:47 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  09:50:10 Login method invoked, Username : jack432
+INFO  09:50:10 CheckCredential method invoked.
+INFO  10:05:27 Application started. Press Ctrl+C to shut down.
+INFO  10:05:27 Application started. Press Ctrl+C to shut down.
+INFO  10:05:27 Hosting environment: Development
+INFO  10:05:27 Hosting environment: Development
+INFO  10:05:27 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  10:05:27 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  10:06:13 Login method invoked, Username : jack432
+INFO  10:06:13 CheckCredential method invoked.
+INFO  10:08:58 Login method invoked, Username : jack432
+INFO  10:08:58 CheckCredential method invoked.
+INFO  11:52:05 Application started. Press Ctrl+C to shut down.
+INFO  11:52:05 Application started. Press Ctrl+C to shut down.
+INFO  11:52:05 Hosting environment: Development
+INFO  11:52:05 Hosting environment: Development
+INFO  11:52:05 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  11:52:05 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  11:52:45 Login method invoked, Username : jack432
+INFO  11:52:45 CheckCredential method invoked.
+INFO  03:46:37 Application started. Press Ctrl+C to shut down.
+INFO  03:46:37 Application started. Press Ctrl+C to shut down.
+INFO  03:46:37 Hosting environment: Development
+INFO  03:46:37 Hosting environment: Development
+INFO  03:46:37 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  03:46:37 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  03:47:13 Login method invoked, Username : jack432
+INFO  03:47:13 CheckCredential method invoked.
+INFO  03:49:23 Application started. Press Ctrl+C to shut down.
+INFO  03:49:23 Application started. Press Ctrl+C to shut down.
+INFO  03:49:23 Hosting environment: Development
+INFO  03:49:23 Hosting environment: Development
+INFO  03:49:23 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  03:49:23 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  03:51:10 Login method invoked, Username : jack432
+INFO  03:51:10 CheckCredential method invoked.
+INFO  03:52:58 Login method invoked, Username : jack432
+INFO  03:52:58 CheckCredential method invoked.
+INFO  03:53:47 Login method invoked, Username : john@123
+INFO  03:53:47 CheckCredential method invoked.
+INFO  03:59:44 Application started. Press Ctrl+C to shut down.
+INFO  03:59:44 Application started. Press Ctrl+C to shut down.
+INFO  03:59:44 Hosting environment: Development
+INFO  03:59:44 Hosting environment: Development
+INFO  03:59:44 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  03:59:44 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  04:00:47 Login method invoked, Username : jack432
+INFO  04:00:47 CheckCredential method invoked.
+INFO  04:01:27 Login method invoked, Username : john@123
+INFO  04:01:27 CheckCredential method invoked.
+INFO  04:02:04 Login method invoked, Username : akash123
+INFO  04:02:04 CheckCredential method invoked.
+INFO  04:05:01 Application started. Press Ctrl+C to shut down.
+INFO  04:05:01 Application started. Press Ctrl+C to shut down.
+INFO  04:05:01 Hosting environment: Development
+INFO  04:05:01 Hosting environment: Development
+INFO  04:05:01 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  04:05:01 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  04:05:46 Login method invoked, Username : akash123
+INFO  04:05:46 CheckCredential method invoked.
+INFO  04:09:23 Application started. Press Ctrl+C to shut down.
+INFO  04:09:23 Application started. Press Ctrl+C to shut down.
+INFO  04:09:23 Hosting environment: Development
+INFO  04:09:23 Hosting environment: Development
+INFO  04:09:23 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  04:09:23 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  04:09:35 Login method invoked, Username : jack432
+INFO  04:09:36 CheckCredential method invoked.
+INFO  04:09:52 Login method invoked, Username : john@123
+INFO  04:09:52 CheckCredential method invoked.
+INFO  04:10:07 Login method invoked, Username : akash123
+INFO  04:10:07 CheckCredential method invoked.
+INFO  04:31:14 Application started. Press Ctrl+C to shut down.
+INFO  04:31:14 Application started. Press Ctrl+C to shut down.
+INFO  04:31:14 Hosting environment: Development
+INFO  04:31:14 Hosting environment: Development
+INFO  04:31:14 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  04:31:14 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  04:31:38 Login method invoked, Username : akash123
+INFO  04:31:38 CheckCredential method invoked.
+INFO  04:51:08 Login method invoked, Username : akash123
+INFO  04:51:08 CheckCredential method invoked.
+INFO  04:51:30 Login method invoked, Username : akash123
+INFO  04:51:30 CheckCredential method invoked.
+INFO  06:41:20 Application started. Press Ctrl+C to shut down.
+INFO  06:41:20 Application started. Press Ctrl+C to shut down.
+INFO  06:41:20 Hosting environment: Development
+INFO  06:41:20 Hosting environment: Development
+INFO  06:41:20 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  06:41:20 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  06:41:40 Login method invoked, Username : akash123
+INFO  06:41:40 CheckCredential method invoked.
+INFO  04:05:58 Application started. Press Ctrl+C to shut down.
+INFO  04:05:58 Application started. Press Ctrl+C to shut down.
+INFO  04:05:58 Hosting environment: Development
+INFO  04:05:58 Hosting environment: Development
+INFO  04:05:58 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  04:05:58 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  04:07:05 Login method invoked, Username : jack432
+INFO  04:07:05 CheckCredential method invoked.
+INFO  04:07:21 Login method invoked, Username : jack432
+INFO  04:07:21 CheckCredential method invoked.
+INFO  04:07:45 Login method invoked, Username : akash123
+INFO  04:07:45 CheckCredential method invoked.
+INFO  04:09:24 Login method invoked, Username : akash123
+INFO  04:09:24 CheckCredential method invoked.
+INFO  04:14:06 Application started. Press Ctrl+C to shut down.
+INFO  04:14:06 Application started. Press Ctrl+C to shut down.
+INFO  04:14:06 Hosting environment: Development
+INFO  04:14:06 Hosting environment: Development
+INFO  04:14:06 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  04:14:06 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  04:14:32 Login method invoked, Username : jack432
+INFO  04:14:32 CheckCredential method invoked.
+INFO  04:15:14 Login method invoked, Username : akash123
+INFO  04:15:14 CheckCredential method invoked.
+INFO  04:26:10 Application started. Press Ctrl+C to shut down.
+INFO  04:26:10 Application started. Press Ctrl+C to shut down.
+INFO  04:26:10 Hosting environment: Development
+INFO  04:26:10 Hosting environment: Development
+INFO  04:26:10 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  04:26:10 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  04:27:23 Login method invoked, Username : jack432
+INFO  04:27:23 CheckCredential method invoked.
+INFO  04:32:46 Login method invoked, Username : jack432
+INFO  04:32:46 CheckCredential method invoked.
+INFO  04:34:12 Login method invoked, Username : akash123
+INFO  04:34:12 CheckCredential method invoked.
+INFO  04:34:32 Login method invoked, Username : jack432
+INFO  04:34:32 CheckCredential method invoked.
+INFO  04:36:14 Login method invoked, Username : jack432
+INFO  04:36:14 CheckCredential method invoked.
+INFO  04:37:48 Login method invoked, Username : jack432
+INFO  04:37:48 CheckCredential method invoked.
+INFO  04:41:01 Login method invoked, Username : jack432
+INFO  04:41:01 CheckCredential method invoked.
+INFO  06:34:30 Application started. Press Ctrl+C to shut down.
+INFO  06:34:30 Application started. Press Ctrl+C to shut down.
+INFO  06:34:30 Hosting environment: Development
+INFO  06:34:30 Hosting environment: Development
+INFO  06:34:30 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  06:34:30 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  06:37:10 Login method invoked, Username : jack432
+INFO  06:37:10 CheckCredential method invoked.
+INFO  06:38:33 Login method invoked, Username : jack432
+INFO  06:38:33 CheckCredential method invoked.
+INFO  09:50:57 Application started. Press Ctrl+C to shut down.
+INFO  09:50:57 Application started. Press Ctrl+C to shut down.
+INFO  09:50:57 Hosting environment: Development
+INFO  09:50:57 Hosting environment: Development
+INFO  09:50:57 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  09:50:57 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  10:03:24 Login method invoked, Username : jack432
+INFO  10:03:24 CheckCredential method invoked.
+ERROR 10:03:30 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 10:03:30 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  10:23:44 Application started. Press Ctrl+C to shut down.
+INFO  10:23:44 Application started. Press Ctrl+C to shut down.
+INFO  10:23:44 Hosting environment: Development
+INFO  10:23:44 Hosting environment: Development
+INFO  10:23:44 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  10:23:44 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  10:25:44 Login method invoked, Username : jack432
+INFO  10:25:44 CheckCredential method invoked.
+INFO  09:53:29 Application started. Press Ctrl+C to shut down.
+INFO  09:53:29 Application started. Press Ctrl+C to shut down.
+INFO  09:53:29 Hosting environment: Development
+INFO  09:53:29 Hosting environment: Development
+INFO  09:53:29 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  09:53:29 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  09:53:49 Login method invoked, Username : akash123
+INFO  09:53:49 CheckCredential method invoked.
+INFO  10:04:56 Application started. Press Ctrl+C to shut down.
+INFO  10:04:56 Application started. Press Ctrl+C to shut down.
+INFO  10:04:56 Hosting environment: Development
+INFO  10:04:56 Hosting environment: Development
+INFO  10:04:56 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  10:04:56 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  10:05:45 Login method invoked, Username : akash123
+INFO  10:05:45 CheckCredential method invoked.
+INFO  10:24:59 Application started. Press Ctrl+C to shut down.
+INFO  10:24:59 Application started. Press Ctrl+C to shut down.
+INFO  10:24:59 Hosting environment: Development
+INFO  10:24:59 Hosting environment: Development
+INFO  10:24:59 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  10:24:59 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  10:26:15 Login method invoked, Username : akash123
+INFO  10:26:15 CheckCredential method invoked.
+INFO  10:27:42 Login method invoked, Username : akash123
+INFO  10:27:42 CheckCredential method invoked.
+INFO  10:29:45 Login method invoked, Username : akash123
+INFO  10:29:45 CheckCredential method invoked.
+INFO  10:31:55 Login method invoked, Username : akash123
+INFO  10:31:55 CheckCredential method invoked.
+INFO  04:13:58 Application started. Press Ctrl+C to shut down.
+INFO  04:13:58 Application started. Press Ctrl+C to shut down.
+INFO  04:13:58 Hosting environment: Development
+INFO  04:13:58 Hosting environment: Development
+INFO  04:13:58 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  04:13:58 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  04:15:25 Login method invoked, Username : akash123
+INFO  04:15:25 CheckCredential method invoked.
+INFO  04:35:30 Application started. Press Ctrl+C to shut down.
+INFO  04:35:30 Application started. Press Ctrl+C to shut down.
+INFO  04:35:30 Hosting environment: Development
+INFO  04:35:30 Hosting environment: Development
+INFO  04:35:30 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  04:35:30 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  04:35:52 Login method invoked, Username : akash123
+INFO  04:35:52 CheckCredential method invoked.
+INFO  04:37:18 Application started. Press Ctrl+C to shut down.
+INFO  04:37:18 Application started. Press Ctrl+C to shut down.
+INFO  04:37:18 Hosting environment: Development
+INFO  04:37:18 Hosting environment: Development
+INFO  04:37:18 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  04:37:18 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  04:39:58 Login method invoked, Username : akash123
+INFO  04:39:58 CheckCredential method invoked.
+INFO  04:49:24 Application started. Press Ctrl+C to shut down.
+INFO  04:49:25 Application started. Press Ctrl+C to shut down.
+INFO  04:49:25 Hosting environment: Development
+INFO  04:49:25 Hosting environment: Development
+INFO  04:49:25 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  04:49:25 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  04:50:00 Login method invoked, Username : akash123
+INFO  04:50:00 CheckCredential method invoked.
+INFO  05:12:52 Application started. Press Ctrl+C to shut down.
+INFO  05:12:52 Application started. Press Ctrl+C to shut down.
+INFO  05:12:52 Hosting environment: Development
+INFO  05:12:52 Hosting environment: Development
+INFO  05:12:52 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  05:12:52 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  05:13:39 Login method invoked, Username : akash123
+INFO  05:13:39 CheckCredential method invoked.
+INFO  07:35:59 Application started. Press Ctrl+C to shut down.
+INFO  07:35:59 Application started. Press Ctrl+C to shut down.
+INFO  07:35:59 Hosting environment: Development
+INFO  07:35:59 Hosting environment: Development
+INFO  07:35:59 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  07:35:59 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  07:36:38 Login method invoked, Username : akash123
+INFO  07:36:38 CheckCredential method invoked.
+INFO  07:49:43 Application started. Press Ctrl+C to shut down.
+INFO  07:49:43 Application started. Press Ctrl+C to shut down.
+INFO  07:49:43 Hosting environment: Development
+INFO  07:49:43 Hosting environment: Development
+INFO  07:49:43 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  07:49:43 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  07:50:02 Login method invoked, Username : akash123
+INFO  07:50:02 CheckCredential method invoked.
+INFO  07:52:22 Application started. Press Ctrl+C to shut down.
+INFO  07:52:22 Application started. Press Ctrl+C to shut down.
+INFO  07:52:22 Hosting environment: Development
+INFO  07:52:22 Hosting environment: Development
+INFO  07:52:22 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  07:52:22 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  07:52:26 Login method invoked, Username : akash123
+INFO  07:52:26 CheckCredential method invoked.
+INFO  08:40:59 Application started. Press Ctrl+C to shut down.
+INFO  08:40:59 Application started. Press Ctrl+C to shut down.
+INFO  08:40:59 Hosting environment: Development
+INFO  08:40:59 Hosting environment: Development
+INFO  08:40:59 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  08:40:59 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  08:41:14 Login method invoked, Username : akash123
+INFO  08:41:14 CheckCredential method invoked.
+INFO  11:09:43 Application started. Press Ctrl+C to shut down.
+INFO  11:09:43 Application started. Press Ctrl+C to shut down.
+INFO  11:09:43 Hosting environment: Development
+INFO  11:09:43 Hosting environment: Development
+INFO  11:09:43 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  11:09:43 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  11:10:01 Login method invoked, Username : akash123
+INFO  11:10:01 CheckCredential method invoked.
+INFO  11:12:05 Login method invoked, Username : akash123
+INFO  11:12:05 CheckCredential method invoked.
+INFO  11:14:22 Login method invoked, Username : akash123
+INFO  11:14:22 CheckCredential method invoked.
+INFO  11:17:31 Login method invoked, Username : akash123
+INFO  11:17:31 CheckCredential method invoked.
+INFO  11:52:14 Application started. Press Ctrl+C to shut down.
+INFO  11:52:14 Application started. Press Ctrl+C to shut down.
+INFO  11:52:14 Hosting environment: Development
+INFO  11:52:14 Hosting environment: Development
+INFO  11:52:14 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  11:52:14 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  11:53:26 Login method invoked, Username : akash123
+INFO  11:53:26 CheckCredential method invoked.
+INFO  11:58:15 Application started. Press Ctrl+C to shut down.
+INFO  11:58:15 Application started. Press Ctrl+C to shut down.
+INFO  11:58:15 Hosting environment: Development
+INFO  11:58:15 Hosting environment: Development
+INFO  11:58:15 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  11:58:15 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  11:58:37 Login method invoked, Username : akash123
+INFO  11:58:37 CheckCredential method invoked.
+INFO  12:01:27 Application started. Press Ctrl+C to shut down.
+INFO  12:01:27 Application started. Press Ctrl+C to shut down.
+INFO  12:01:27 Hosting environment: Development
+INFO  12:01:27 Hosting environment: Development
+INFO  12:01:27 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  12:01:27 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  12:01:29 Login method invoked, Username : akash123
+INFO  12:01:29 CheckCredential method invoked.
+INFO  12:02:20 Login method invoked, Username : john@123
+INFO  12:02:20 CheckCredential method invoked.
+INFO  12:02:38 Login method invoked, Username : akash123
+INFO  12:02:38 CheckCredential method invoked.
+INFO  12:35:07 Application started. Press Ctrl+C to shut down.
+INFO  12:35:07 Application started. Press Ctrl+C to shut down.
+INFO  12:35:07 Hosting environment: Development
+INFO  12:35:07 Hosting environment: Development
+INFO  12:35:07 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  12:35:07 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  12:35:22 Login method invoked, Username : akash123
+INFO  12:35:22 CheckCredential method invoked.
+INFO  05:52:20 Application started. Press Ctrl+C to shut down.
+INFO  05:52:20 Application started. Press Ctrl+C to shut down.
+INFO  05:52:20 Hosting environment: Development
+INFO  05:52:20 Hosting environment: Development
+INFO  05:52:20 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  05:52:20 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  05:53:08 Login method invoked, Username : akash123
+INFO  05:53:08 CheckCredential method invoked.
+INFO  09:23:52 Application started. Press Ctrl+C to shut down.
+INFO  09:23:52 Application started. Press Ctrl+C to shut down.
+INFO  09:23:52 Hosting environment: Development
+INFO  09:23:52 Hosting environment: Development
+INFO  09:23:52 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  09:23:52 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  09:24:16 Login method invoked, Username : akash123
+INFO  09:24:16 CheckCredential method invoked.
+INFO  06:29:59 Application started. Press Ctrl+C to shut down.
+INFO  06:29:59 Application started. Press Ctrl+C to shut down.
+INFO  06:29:59 Hosting environment: Development
+INFO  06:29:59 Hosting environment: Development
+INFO  06:29:59 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  06:29:59 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  06:31:01 Login method invoked, Username : akash123
+INFO  06:31:01 CheckCredential method invoked.
+ERROR 06:31:07 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 06:31:07 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  06:39:29 Application started. Press Ctrl+C to shut down.
+INFO  06:39:29 Application started. Press Ctrl+C to shut down.
+INFO  06:39:29 Hosting environment: Development
+INFO  06:39:29 Hosting environment: Development
+INFO  06:39:29 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  06:39:29 Content root path: C:\Stage 3\Project Simulation\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  06:51:31 Login method invoked, Username : akash123
+INFO  06:51:31 CheckCredential method invoked.
+INFO  07:02:23 Login method invoked, Username : akash123
+INFO  07:02:23 CheckCredential method invoked.
+INFO  10:11:08 Application started. Press Ctrl+C to shut down.
+INFO  10:11:08 Application started. Press Ctrl+C to shut down.
+INFO  10:11:08 Hosting environment: Development
+INFO  10:11:08 Hosting environment: Development
+INFO  10:11:08 Content root path: C:\Final Project\Authorization
+INFO  10:11:08 Content root path: C:\Final Project\Authorization
+INFO  10:14:46 Login method invoked, Username : user1
+INFO  10:14:46 CheckCredential method invoked.
+INFO  10:15:57 Application started. Press Ctrl+C to shut down.
+INFO  10:15:57 Application started. Press Ctrl+C to shut down.
+INFO  10:15:57 Hosting environment: Development
+INFO  10:15:57 Hosting environment: Development
+INFO  10:15:57 Content root path: C:\Final Project\Authorization
+INFO  10:15:57 Content root path: C:\Final Project\Authorization
+INFO  10:16:24 Login method invoked, Username : user1
+INFO  10:16:24 CheckCredential method invoked.
+INFO  10:16:37 Login method invoked, Username : user
+INFO  10:16:37 CheckCredential method invoked.
+INFO  10:16:53 Login method invoked, Username : 
+INFO  10:16:53 CheckCredential method invoked.
+INFO  10:17:24 Login method invoked, Username : user4
+INFO  10:17:24 CheckCredential method invoked.
+INFO  10:23:52 Application started. Press Ctrl+C to shut down.
+INFO  10:23:52 Application started. Press Ctrl+C to shut down.
+INFO  10:23:52 Hosting environment: Development
+INFO  10:23:52 Hosting environment: Development
+INFO  10:23:52 Content root path: C:\Final Project\Authorization
+INFO  10:23:52 Content root path: C:\Final Project\Authorization
+INFO  10:25:23 Login method invoked, Username : user1
+INFO  10:25:25 CheckCredential method invoked.
